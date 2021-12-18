@@ -1,0 +1,12 @@
+Scr compl	Vacc compl	Freq. of TAU	Freq. of Omega	Vacc rate/day	#vacc std inf.	#unvacc std inf.	TOTAL std inf	#vacc fac inf.	#unvacc fac inf.	TOTAL fac inf	TOTAL inf	Peak # Hosp	Peak Day Hosp	Peak # inf	Peak Day inf	Total Deaths	# Hosp Std	# Hosp Fac	Total Hosp	
+0.5	0.5	N/A	N/A	120	980	2019	2999	36	41	77	3076	14	56	52	25	2	29	8	37
+0.5	0.5	14	N/A	120	1016	1905	2921	33	35	68	2989	13	54	47	25	2	26	7	33
+0.5	0.5	7	N/A	120	1040	1787	2827	29	30	59	2886	12	52	43	26	1	22	6	28
+0.5	0.5	3	N/A	120	1059	1489	2548	23	21	44	2592	10	51	34	30	1	17	5	22
+0.5	0.5	2	N/A	120	1037	1269	2306	19	16	35	2341	9	51	28	31	1	14	4	18
+0.5	0.5	1	N/A	120	912	841	1753	13	9	22	1775	6	54	19	38	1	10	4	14
+
+
+
+
+
