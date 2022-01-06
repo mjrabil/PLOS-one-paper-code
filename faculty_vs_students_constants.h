@@ -41,7 +41,7 @@
 #define THETA       1.0/(3*3.0)     //(mean incubation time) or rate at which exposed individuals advance to the asymptomatic, infectious compartment
 #define RHO         1.0/(3*14.0)            // (1/rho is the time to recover) rate at which infected individuals recover from disease and are removed
 #define SIGMA       0.0102             //0.04423  (65%)   //0.0102 (30%)	 //(rate of symptom development) rate of symptom onset for infected individuals
-#define MU           1.0/(3*4.0) //1.0/(3*1.0)             //(1/mu is the time to false positive return)rate at which false positives are returned to the Uninfected compartment
+#define MU           1.0/(3*1.0) //1.0/(3*4.0)             //(1/mu is the time to false positive return)rate at which false positives are returned to the Uninfected compartment
 
 
 #define EPSILON     0.9464              //success rate of the vaccine, vaccine efficacy, 1 when 100% efficiency (add it next to all lambdas, it's not the case now)
